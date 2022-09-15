@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Modal, Button, Table } from "react-bootstrap";
 import { useTranslation } from "react-i18next";
-import Pdf from "react-to-pdf";
 
 export default function Shareholding_change(props) {
 
